@@ -1,0 +1,3 @@
+this is my testcase2.txt
+hello world 
+conflict
